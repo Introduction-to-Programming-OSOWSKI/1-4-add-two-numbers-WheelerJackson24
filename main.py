@@ -1,5 +1,5 @@
-def addTwoNumbers(x, y):
+def add(x, y):
         return(x + y)
 
-addTwoNumbers(33, 36)
+add(33, 36)
 
